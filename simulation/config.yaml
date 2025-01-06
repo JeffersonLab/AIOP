@@ -1,0 +1,15 @@
+defaults:
+  beam_current: 2.0e-9
+  time_step: 1.0
+  beam_area: 0.6
+  electron_charge: 1.602e-19
+
+microwave_settings:
+  microwave_frequency: 140.1
+
+
+database_info:
+  host: epscidb
+  user: aiopuser
+  dbname: 
+
